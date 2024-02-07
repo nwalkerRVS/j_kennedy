@@ -1,3 +1,5 @@
 This is a test file
-
+asdfasdfas
 We shall test multiple lines
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
