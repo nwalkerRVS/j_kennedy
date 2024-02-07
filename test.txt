@@ -1,5 +1,6 @@
 This is a test file
 <<<<<<< HEAD
+<<<<<<< HEAD
 asdfasdfas
 <<<<<<< HEAD
 We shall test multiple 
@@ -10,3 +11,7 @@ We shall test lines
 This is better.
 We shall multiple 
 >>>>>>> e78f6b5 (test-b)
+=======
+This is better.
+We shall multiple 
+>>>>>>> e78f6b5f97465fd9d3ef0a2d0482dd132d3747fe
