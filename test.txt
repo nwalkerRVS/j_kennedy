@@ -1,7 +1,12 @@
 This is a test file
+<<<<<<< HEAD
 asdfasdfas
 <<<<<<< HEAD
 We shall test multiple 
 =======
 We shall test lines
 >>>>>>> ee87be3 (Adjusting language in test.txt)
+=======
+This is better.
+We shall multiple 
+>>>>>>> e78f6b5 (test-b)
